@@ -23,21 +23,7 @@
         }
       ]
     },
-    "tabs": [
-      {
-        "tab": "Guides",
-        "groups": [
-          {
-            "group": "Getting started",
-            "pages": [
-              "index",
-              "quickstart",
-              "development"
-            ]
-          }
-        ]
-      }
-    ]
+    "groups": []
   },
   "logo": {
     "light": "/logo/light.svg",
