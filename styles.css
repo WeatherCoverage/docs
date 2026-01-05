@@ -1,0 +1,11 @@
+/* Navbar brand color and size */
+.mintlify-navbar-brand {
+  color: #3498DB;   /* Matches your primary color */
+  font-size: 18px;  /* Slightly smaller */
+  font-weight: 600; /* Bold */
+}
+
+/* Optional: slightly reduce navbar height */
+.mintlify-navbar {
+  min-height: 50px;
+}
