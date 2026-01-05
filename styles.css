@@ -1,6 +1,6 @@
-/* Navbar brand color and size */
+/* Navbar brand color and smaller size */
 .mintlify-navbar-brand {
-  color: #3498DB;   /* Matches your primary color */
+  color: #3498DB;   /* Primary color */
   font-size: 18px;  /* Slightly smaller */
   font-weight: 600; /* Bold */
 }
@@ -8,4 +8,19 @@
 /* Optional: slightly reduce navbar height */
 .mintlify-navbar {
   min-height: 50px;
+}
+
+/* Hide Mintlify "Powered by" in footer */
+.mintlify-footer-poweredby {
+  display: none !important;
+}
+
+/* Add custom footer text */
+.mintlify-footer::after {
+  content: "Weather Coverage Community Hub | 2026";
+  display: block;
+  text-align: center;
+  font-size: 14px;
+  color: #3498DB;
+  margin-top: 8px;
 }
