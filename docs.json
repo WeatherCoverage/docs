@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+  "theme": "blue",
   "name": "Weather Coverage Community Hub",
   "colors": {
     "primary": "#3498DB",
@@ -34,5 +34,7 @@
       "vscode"
     ]
   },
-  "footer": {}
+  "footer": {
+    "text": "Weather Coverage Community Hub - 2025"
+  }
 }
