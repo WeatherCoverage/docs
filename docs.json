@@ -34,5 +34,7 @@
       "vscode"
     ]
   },
-  "footer": {}
+  "footer": {
+    "text": "Weather Coverage Community Hub - 2025"
+  }
 }
