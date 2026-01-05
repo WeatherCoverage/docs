@@ -23,7 +23,17 @@
         }
       ]
     },
-    "groups": []
+    "groups": [
+      {
+        "group": "Information",
+        "pages": [
+          "introduction",
+          "about",
+          "faq",
+          "contact"
+        ]
+      }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
@@ -44,15 +54,15 @@
   },
   "contextual": {
     "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "mcp",
+      "cursor",
+      "vscode"
+    ]
   },
   "footer": {
     "socials": {
