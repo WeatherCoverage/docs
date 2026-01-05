@@ -21,6 +21,7 @@
   "navbar": {
     "brand": "WCCH | Staff"
   },
+  "customStyles": ["/styles.css"],
   "contextual": {
     "options": [
       "copy",
@@ -34,6 +35,6 @@
     ]
   },
   "footer": {
-  "text": "Weather Coverage Community Hub | 2026"
+    "text": "Weather Coverage Community Hub | 2026"
+  }
 }
-
