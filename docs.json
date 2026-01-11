@@ -11,6 +11,12 @@
   "navigation": {
     "groups": [
       {
+        "group": "Landing",
+        "pages": [
+          "landing/introduction"
+        ]
+      },
+      {
         "group": "Information",
         "pages": [
           "information/information",
